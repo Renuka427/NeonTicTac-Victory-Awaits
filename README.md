@@ -45,8 +45,6 @@ Create a pull request!
 Stay Connected 📱
 If you love the game, don't forget to ⭐️ star the repository and share it with your friends!
 
-Follow us on Twitter for updates and new features! 🚀
-
 License 📜
 This project is licensed under the MIT License - see the LICENSE file for details.
 
